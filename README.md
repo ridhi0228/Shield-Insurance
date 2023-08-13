@@ -1,6 +1,3 @@
-![Screenshot (168)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/71087a62-3caf-4b8d-9c4e-03fd275f08c1)
-![Uploading Screenshot (167).png…]()
-![Screenshot (168)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/20d3bf20-3902-4c44-9fb2-7fd5c6bc617a)
 
 # Shield-Insurance
 
@@ -18,25 +15,25 @@ The dataset provided by #codebasics is from Insurance companies, in which we hav
 
 🎯 Key Focus Area:
 
-✍ #Tracking customer and revenue
+✍ Tracking customer and revenue
 
-✍ #Daily revenue and customer growth rate
+✍ Daily revenue and customer growth rate
 
-✍# Sales mode Analysis
+✍ Sales mode Analysis
 
-✍ #Trends in customer and revenue growth
+✍ Trends in customer and revenue growth
 
-✍ #Age group analysis
+✍ Age group analysis
 
-🌟# Lessons learned from the dashboard
+🌟 Lessons learned from the dashboard
 
-✨#Premium: The amount of money paid by the policyholder to the insurance company for coverage.
+✨ Premium: The amount of money paid by the policyholder to the insurance company for coverage.
 
-✨#Policy: The contract between the insured and the insurer that outlines the terms and conditions of the insurance coverage.
+✨ Policy: The contract between the insured and the insurer that outlines the terms and conditions of the insurance coverage.
 
-✨#Coverage: The protection provided by the insurance policy against specific risks or events.
+✨ Coverage: The protection provided by the insurance policy against specific risks or events.
 
-✨#Claim: A formal request made by the insured to the insurance company to seek compensation for covered losses or damages.🌟
+✨ Claim: A formal request made by the insured to the insurance company to seek compensation for covered losses or damages.🌟
 
 Objective :
 
@@ -47,9 +44,11 @@ Data Summary :
 ![Screenshot (164)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3b1e008d-72c7-485a-bdb5-640433abcf4e)
 
 #Dashboard
+![Screenshot (168)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/9f62df08-ac54-4f19-96be-303d6dfa73a3)
+![Screenshot (167)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/89ff5e61-138c-4577-9d26-3a8f0805a2f7)
+![Screenshot (166)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3dd63d07-8b2f-4028-b6d4-25393490fb43)
+![Screenshot (165)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/c1244fb2-6bb7-46a7-9745-a926836724f7)
 
-![Uploading Screenshot (166).png…]()
-![Uploading Screenshot (165).png…]()
 
 Key Insights :
 
