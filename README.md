@@ -44,10 +44,13 @@ Data Summary :
 ![Screenshot (164)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3b1e008d-72c7-485a-bdb5-640433abcf4e)
 
 #Dashboard
-![Screenshot (168)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/9f62df08-ac54-4f19-96be-303d6dfa73a3)
-![Screenshot (167)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/89ff5e61-138c-4577-9d26-3a8f0805a2f7)
-![Screenshot (166)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3dd63d07-8b2f-4028-b6d4-25393490fb43)
+
 ![Screenshot (165)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/c1244fb2-6bb7-46a7-9745-a926836724f7)
+![Screenshot (166)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/3dd63d07-8b2f-4028-b6d4-25393490fb43)
+![Screenshot (167)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/89ff5e61-138c-4577-9d26-3a8f0805a2f7)
+![Screenshot (168)](https://github.com/ridhi0228/Shield-Insurance/assets/132190698/9f62df08-ac54-4f19-96be-303d6dfa73a3)
+
+
 
 
 Key Insights :
